@@ -8,7 +8,7 @@ h1{
 .author-color{
     color: #FFB938;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }

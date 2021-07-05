@@ -57,3 +57,17 @@ h3{
     background-repeat: no-repeat;
     background-position: left;
 }
+#senior-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(#FF9B76,#FF6649);
+    border-image-slice: 1;
+}
+#junior-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(#0029FF,#01F4FF);
+    border-image-slice: 1;
+}
+.footer-part{
+    text-align: center;
+    color: gray;
+}
